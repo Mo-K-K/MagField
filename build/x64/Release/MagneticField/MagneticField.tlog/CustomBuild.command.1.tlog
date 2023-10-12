@@ -1,0 +1,18 @@
+^C:\USERS\RAFEH\DESKTOP\MAGNETIC FIELD\BUILD\CMAKEFILES\C421B16FAE6239D76FBE5D438829A449\MAGNETICFIELD.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\RAFEH\DESKTOP\MAGNETIC FIELD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/rafeh/Desktop/magnetic field" "-BC:/Users/rafeh/Desktop/magnetic field/build" --check-stamp-file "C:/Users/rafeh/Desktop/magnetic field/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

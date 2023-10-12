@@ -1,0 +1,4 @@
+C:/Users/rafeh/Desktop/magnetic field/build/CMakeFiles/MagField.dir
+C:/Users/rafeh/Desktop/magnetic field/build/CMakeFiles/MagneticField.dir
+C:/Users/rafeh/Desktop/magnetic field/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/rafeh/Desktop/magnetic field/build/CMakeFiles/ZERO_CHECK.dir

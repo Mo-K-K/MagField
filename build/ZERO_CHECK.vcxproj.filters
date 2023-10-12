@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\rafeh\Desktop\magnetic field\build\CMakeFiles\c421b16fae6239d76fbe5d438829a449\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C20A329E-A01E-3853-9D74-64130D8345EB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
