@@ -5,4 +5,4 @@ This project is made using Geant4 library as a Geant4 study in physics simulatio
 
 ---------------------------------------------------------------------------------------
 
-To start the simulation, download the rep and run the .exe file in the /build folder. Make sure a GUI is installed such as QT
+To start the simulation, download the rep and run the .exe file in the /release folder. Make sure a GUI is installed such as QT
